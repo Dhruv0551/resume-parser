@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Local secrets
+.env
+
+# Notebook metadata
+.ipynb_checkpoints/
